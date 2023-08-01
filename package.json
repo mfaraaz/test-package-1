@@ -33,7 +33,8 @@
     "build": "tamagui-build",
     "watch": "tamagui-build --watch",
     "clean": "tamagui-build clean",
-    "clean:build": "tamagui-build clean:build"
+    "clean:build": "tamagui-build clean:build",
+    "postinstall": "tamagui-build"
   },
   "author": "Muazzam Faraaz",
   "license": "ISC",
