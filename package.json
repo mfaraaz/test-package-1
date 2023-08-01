@@ -1,0 +1,52 @@
+{
+  "name": "@comp/lib1",
+  "types": "./types/index.d.ts",
+  "main": "dist/cjs",
+  "module": "dist/esm",
+  "module:jsx": "dist/jsx",
+  "version": "0.0.1",
+  "description": "Test Component Lib",
+  "files": [
+    "types",
+    "src",
+    "dist"
+  ],
+  "sideEffects": [
+    "*.css"
+  ],
+  "dependencies": {
+    "@tamagui/config": "^1.48.5",
+    "@tamagui/core": "*",
+    "dotenv": "^16.3.1",
+    "react-native": "*"
+  },
+  "peerDependencies": {
+    "react": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/mfaraaz/test-package-1.git"
+  },
+  "homepage": "https://github.com/mfaraaz/test-package-1.git",
+  "repository": "https://github.com/mfaraaz/test-package-1.git",
+  "scripts": {
+    "build": "tamagui-build",
+    "watch": "tamagui-build --watch"
+  },
+  "author": "Muazzam Faraaz",
+  "license": "ISC",
+  "devDependencies": {
+    "@tamagui/build": "*",
+    "@tsconfig/react-native": "^3.0.2",
+    "@types/react": "^18.2.18",
+    "babel-plugin-transform-inline-environment-variables": "^0.4.4",
+    "typescript": "^5.1.6"
+  },
+  "exports": {
+    "./package.json": "./package.json",
+    ".": {
+      "types": "./types/index.d.ts",
+      "import": "./dist/esm/index.js",
+      "require": "./dist/cjs/index.js"
+    }
+  }
+}
