@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../src/Components/Test.tsx"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA,0BAAuC;AACvC,mBAAkB;AAElB,MAAM,OAAO,MAAM;AACf,SACI,6BAAAA,QAAA,cAAC,gCACG,6BAAAA,QAAA,cAAC,gCAAK,MAAI,CACd;AAER;AAEA,IAAO,eAAQ;AAEf,MAAM,SAAS,+BAAW,OAAO,CAAC,CAAC;",
+  "names": ["React"]
+}

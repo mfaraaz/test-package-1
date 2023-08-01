@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../src/Components/Wow.tsx"],
+  "mappings": "AAEA,SAAS,OAAO,YAAY;AAE5B,MAAM,MAAM,MAAM;AACd,SACI,CAAC,MACG,CAAC,KAAK,iBAAiB,EAAtB,KACL,EAFC;AAIT;",
+  "names": []
+}

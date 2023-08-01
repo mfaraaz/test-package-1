@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../src/Components/Wow.tsx"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AACA,mBAAkB;AAClB,kBAA4B;AAE5B,MAAM,MAAM,MAAM;AACd,SACI,6BAAAA,QAAA,cAAC,yBACG,6BAAAA,QAAA,cAAC,wBAAK,mBAAiB,CAC3B;AAER;",
+  "names": ["React"]
+}

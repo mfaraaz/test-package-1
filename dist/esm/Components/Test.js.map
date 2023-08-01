@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../src/Components/Test.tsx"],
+  "mappings": "AAAA,SAAS,YAAY,MAAM,YAAY;AACvC,OAAO,WAAW;AAElB,MAAM,OAAO,MAAM;AACf,SACI,oCAAC,YACG,oCAAC,YAAK,MAAI,CACd;AAER;AAEA,IAAO,eAAQ;AAEf,MAAM,SAAS,WAAW,OAAO,CAAC,CAAC;",
+  "names": []
+}
