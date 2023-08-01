@@ -2,6 +2,7 @@
   "name": "@comp/lib1",
   "types": "./types/index.d.ts",
   "main": "dist/cjs",
+  "source": "src/index.tsx",
   "module": "dist/esm",
   "module:jsx": "dist/jsx",
   "version": "0.0.1",
@@ -30,7 +31,9 @@
   "repository": "https://github.com/mfaraaz/test-package-1.git",
   "scripts": {
     "build": "tamagui-build",
-    "watch": "tamagui-build --watch"
+    "watch": "tamagui-build --watch",
+    "clean": "tamagui-build clean",
+    "clean:build": "tamagui-build clean:build"
   },
   "author": "Muazzam Faraaz",
   "license": "ISC",
