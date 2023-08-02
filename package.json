@@ -16,6 +16,7 @@
     "*.css"
   ],
   "dependencies": {
+    "@tamagui/button": "^1.48.8",
     "@tamagui/config": "^1.48.5",
     "@tamagui/core": "*",
     "dotenv": "^16.3.1",
