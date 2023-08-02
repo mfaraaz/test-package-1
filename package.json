@@ -5,7 +5,7 @@
   "source": "src/index.tsx",
   "module": "dist/esm",
   "module:jsx": "dist/jsx",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Test Component Lib",
   "files": [
     "types",
