@@ -4,10 +4,10 @@ const AppText = styled(TamaguiText, {
   variants: {
     bold: {
       true: {
-        fontWeight: "bold"
+        fontWeight: "800"
       },
       false: {
-        fontWeight: "normal"
+        fontWeight: "500"
       }
     },
     italic: {
@@ -21,15 +21,15 @@ const AppText = styled(TamaguiText, {
     type: {
       header: {
         fontSize: "$9",
-        fontWeight: "normal"
+        fontWeight: "500"
       },
       subheader: {
         fontSize: "$6",
-        fontWeight: "normal"
+        fontWeight: "500"
       },
       paragraph: {
         fontSize: "$4",
-        fontWeight: "normal"
+        fontWeight: "500"
       }
     }
   }

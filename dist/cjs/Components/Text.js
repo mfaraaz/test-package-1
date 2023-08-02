@@ -27,10 +27,10 @@ const AppText = (0, import_core.styled)(import_core.Text, {
   variants: {
     bold: {
       true: {
-        fontWeight: "bold"
+        fontWeight: "800"
       },
       false: {
-        fontWeight: "normal"
+        fontWeight: "500"
       }
     },
     italic: {
@@ -44,15 +44,15 @@ const AppText = (0, import_core.styled)(import_core.Text, {
     type: {
       header: {
         fontSize: "$9",
-        fontWeight: "normal"
+        fontWeight: "500"
       },
       subheader: {
         fontSize: "$6",
-        fontWeight: "normal"
+        fontWeight: "500"
       },
       paragraph: {
         fontSize: "$4",
-        fontWeight: "normal"
+        fontWeight: "500"
       }
     }
   }
