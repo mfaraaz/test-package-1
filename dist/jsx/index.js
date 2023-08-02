@@ -1,8 +1,5 @@
 export * from "./Components/Circle";
 export * from "./Components/Wow";
 export * from "./Provider";
-import { Text } from "@tamagui/core";
-export {
-  Text
-};
+export * from "./Components/Text";
 //# sourceMappingURL=index.js.map
