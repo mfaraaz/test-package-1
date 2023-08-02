@@ -19,11 +19,13 @@ __reExport(src_exports, require("./Components/Circle"), module.exports);
 __reExport(src_exports, require("./Components/Wow"), module.exports);
 __reExport(src_exports, require("./Provider"), module.exports);
 __reExport(src_exports, require("./Components/Text"), module.exports);
+__reExport(src_exports, require("@tamagui/button"), module.exports);
 // Annotate the CommonJS export names for ESM import in node:
 0 && (module.exports = {
   ...require("./Components/Circle"),
   ...require("./Components/Wow"),
   ...require("./Provider"),
-  ...require("./Components/Text")
+  ...require("./Components/Text"),
+  ...require("@tamagui/button")
 });
 //# sourceMappingURL=index.js.map

@@ -1,6 +1,6 @@
 {
   "version": 3,
   "sources": ["../../src/Provider.tsx"],
-  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA,mBAAkB;AAClB,kBAAgC;AAChC,qBAAmB;AAEnB,MAAM,WAAW,CAAC,EAAE,SAAS,MAAqC;AAC9D,SACI,6BAAAA,QAAA,cAAC,+BAAgB,QAAQ,eAAAC,WACpB,QACL;AAER;",
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA,mBAAkB;AAClB,kBAAgC;AAChC,qBAAmB;AAEnB,MAAM,WAAW,CAAC,EAAE,SAAS,MAAqC;AAC9D,SACI,6BAAAA,QAAA,cAAC,+BAAgB,QAAQ,eAAAC,WACpB,QACL;AAGR;",
   "names": ["React", "config"]
 }
