@@ -7,6 +7,7 @@ const Provider = ({ children }: { children: React.ReactNode }) => {
         <TamaguiProvider config={config}>
             {children}
         </TamaguiProvider>
+
     )
 }
 
